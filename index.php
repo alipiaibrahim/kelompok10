@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="style-main.css">
 </head>
 <body>
+<a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
+
 <!-- ABOUT -->
 <section id="about">
     <div class="container">
@@ -113,10 +115,8 @@
         </div>
       </div>
       <div class="footer-copyright text-center py-3">
-        <p>&copy; Copyright
-          <a href="GroupPwl">Female</a>
+        <p>Copyright © 2021 Female Court. All Rights Reserved
         </p>
-        <p>All Deserve</p>
       </div>
   </footer>
   <!-- END FOOTER -->
@@ -127,5 +127,7 @@
 </script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" 
 integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+<script type="text/javascript" src="scroll.js"></script>
+<script type="text/javascript" src="ScrollTrigger.min.js"></script>
 </body>
 </html>

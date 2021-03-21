@@ -6,3 +6,7 @@
 //     }, 300 * (i + 1));
 //   });
 // }
+$(window).on("load", function () {
+  $(".pkiri").addClass("pmuncul");
+  $(".pkanan").addClass("pmuncul");
+});

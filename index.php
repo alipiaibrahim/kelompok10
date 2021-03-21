@@ -19,43 +19,39 @@
  <a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true"></a>
  <!-- navbar -->
  <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-           <!-- Image and text -->
-                <a class="navbar-brand" href="#">
-                          <img src="img/8nav.png" alt="" width="140" height="40" class="d-inline-block align-top">
-               
-                </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
-                aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
+    <!-- Image and text -->
+      <a class="navbar-brand" href="#">
+        <img src="img/8nav.png" alt="" width="140" height="40" class="d-inline-block align-top">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
+      aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
            
-            <div class="collapse navbar-collapse" id="navbarScroll">
-                <ul class="navbar-nav mr-auto my-2 my-lg-0 navbar-nav-scroll nav justify-content-end ms-auto"
-                        style="--bs-scroll-height: 100px;">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#food">Food</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#minum">Drink</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#informasi">Information Food & Drink</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#about">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact</a>
-                    </li>
-
-                </ul>
-                </li>
-
-                </ul>
-    
-            </div>
-        </div>
-    </nav>
+    <div class="collapse navbar-collapse" id="navbarScroll">
+      <ul class="navbar-nav mr-auto my-2 my-lg-0 navbar-nav-scroll nav justify-content-end ms-auto"
+      style="--bs-scroll-height: 100px;">
+          <li class="nav-item">
+            <a class="nav-link" href="#food">Food</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#minum">Drink</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#informasi">Information Food & Drink</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#contact">Contact</a>
+          </li>
+      </ul>
+          </li>
+          </ul>
+      </div>
+    </div>
+  </nav>
 
     <!-- akhir navbar -->
 
@@ -135,128 +131,128 @@
                
       
 
-      <section class="menu-makanan">  
-      <table>
+  <section class="menu-makanan">  
+    <table>
       <tr>
-                <td>
+        <td>
          <div class="list-product">
             <div class="container-fluid">
-            <div class="row"style="padding-bottom:-1000px;">
-             <div class="col"> 
+              <div class="row"style="padding-bottom:-1000px;">
+                <div class="col"> 
                  <div class="card">
-            <img src="./img/papeda-papua.jpg" alt="Avatar" class="img-fluid">
-            <div class="overlay">
-                <div class="text">
-                <p style="font-size:15px; text-align:center;">Papeda-Papua</p>
-                <hr>
-                <p style="font-size:12px; text-align:center;" >Makanan berupa bubur sagu yang kerap dimakan bersama mubara atau ikan tongkol yang dibumbui dengan kunyit</p>
-                </div>
-                <div class="card">
-                </div>
+                    <img src="./img/papeda-papua.jpg" alt="Avatar" class="img-fluid">
+                  <div class="overlay">
+                    <div class="text">
+                      <p style="font-size:15px; text-align:center;">Papeda-Papua</p>
+                    <hr>
+                      <p style="font-size:12px; text-align:center;" >Makanan berupa bubur sagu yang kerap dimakan bersama mubara atau ikan tongkol yang dibumbui dengan kunyit</p>
+                    </div>
+                  <div class="card">
+                  </div>
             </div></div>
-            </div>
-            </div>
-            </div>
-            </div>
-                    </td>
-                    <td>
-            <div class="list-product">
-            <div class="container-fluid">
-            <div class="row"style="padding-bottom:-1000px;">
-             <div class="col"> 
-                 <div class="card">
-            <img src="./img/rendang-sumatraBarat.jpg" alt="Avatar" class="img-fluid">
+          </div>
+        </div>
+      </div>
+    </div>
+  </td>
+  <td>
+    <div class="list-product">
+      <div class="container-fluid">
+        <div class="row"style="padding-bottom:-1000px;">
+          <div class="col"> 
+            <div class="card">
+              <img src="./img/rendang-sumatraBarat.jpg" alt="Avatar" class="img-fluid">
             <div class="overlay">
-                <div class="text">
+              <div class="text">
                 <p style="font-size:15px; text-align:center">Rendang-Sumatra</p>
                 <hr>
                 <p style="font-size:12px; text-align:center;" >Masakan daging asli Indonesia yang dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan</p></div>
-                <div class="card">
-                </div>
-            </div></div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </td>
+              <div class="card">
+              </div>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </td>
 
-            <td>
-            <div class="list-product">
-            <div class="container-fluid">
-            <div class="row"style="padding-bottom:-1000px;">
-             <div class="col"> 
-                 <div class="card">
-            <img src="./img/nasiLiwet-jawa.jpg" alt="Avatar" class="img-fluid">
+  <td>
+    <div class="list-product">
+      <div class="container-fluid">
+        <div class="row"style="padding-bottom:-1000px;">
+          <div class="col"> 
+            <div class="card">
+              <img src="./img/nasiLiwet-jawa.jpg" alt="Avatar" class="img-fluid">
             <div class="overlay">
-                <div class="text">
+              <div class="text">
                 <p style="font-size:15px; text-align:center">Nasi Liwet-Jawa Tengah</p>
                 <hr>
                 <p style="font-size:12px; text-align:center;" >Nasi gurih dimasak dengan kelapa, yang disajikan dengan sayur labu siam, suwiran ayam dan areh</p></div>
                 <div class="card">
-                </div>
+              </div>
             </div></div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </td>
+          </div>
+        </div>
+      </div>
+    </div>
+  </td>
 
-            <td>
-            <div class="list-product">
-            <div class="container-fluid">
-            <div class="row"style="padding-bottom:-1000px;">
-             <div class="col"> 
-                 <div class="card">
-            <img src="./img/rawon-jawatimur.jpg" alt="Avatar" class="img-fluid">
+  <td>
+    <div class="list-product">
+      <div class="container-fluid">
+        <div class="row"style="padding-bottom:-1000px;">
+          <div class="col"> 
+            <div class="card">
+              <img src="./img/rawon-jawatimur.jpg" alt="Avatar" class="img-fluid">
             <div class="overlay">
-                <div class="text">
+              <div class="text">
                 <p style="font-size:15px; text-align:center">Rawon-JawaTimur</p>
                 <hr>
                 <p style="font-size:12px; text-align:center;" >Masakan Indonesia berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek</p></div>
-                </div>
-                <div class="card">
-                </div>
-            </div></div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </td>
-                </tr>
-                </div>
-            </table>   
+              </div>
+              <div class="card">
+              </div>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </td>
+</tr>
+</div>
+</table>   
 
 
-        <div class="makanan2" style="padding-top:50px;"> 
-      <table>
-      <tr>
-                <td>
-         <div class="list-product">
-            <div class="container-fluid">
+<div class="makanan2" style="padding-top:50px;"> 
+  <table>
+    <tr>
+      <td>
+        <div class="list-product">
+          <div class="container-fluid">
             <div class="row"style="padding-bottom:-1000px;">
              <div class="col"> 
                  <div class="card">
-            <img src="./img/lemang-medan2.jpg" alt="Avatar" class="img-fluid">
-            <div class="overlay">
-                <div class="text">
+              <img src="./img/lemang-medan2.jpg" alt="Avatar" class="img-fluid">
+              <div class="overlay">
+              <div class="text">
                 <p style="font-size:15px; text-align:center">Lemang-Medan</p>
                 <hr>
                 <p style="font-size:12px; text-align:center;" >Makanan dari beras ketan yang dimasak dalam seruas bambu, setelah sebelumnya digulung dengan selembar daun pisang</p></div></div>
                 <div class="card">
-                </div>
-            </div></div>
-            </div>
-            </div>
-            </div>
-            </div>
-                    </td>
+              </div>
+          </div></div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </td>
 
-                    <td>
-         <div class="list-product">
-            <div class="container-fluid">
-            <div class="row"style="padding-bottom:-1000px;">
-             <div class="col"> 
-                 <div class="card">
+  <td>
+    <div class="list-product">
+      <div class="container-fluid">
+        <div class="row"style="padding-bottom:-1000px;">
+          <div class="col"> 
+            <div class="card">
             <img src="./img/Ganganmanuk-kalimantan.jpg" alt="Avatar" class="img-fluid">
             <div class="overlay">
                 <div class="text">
@@ -270,7 +266,7 @@
             </div>
             </div>
             </div>
-                    </td>
+  </td>
 
                     <td>
          <div class="list-product">
@@ -591,8 +587,9 @@ In addition to the drinks in question, also a variety of beverage dishes are ser
                 </div>
             <div class="col-lg-12">
             <h3 class="pKanan">This is About</h3>
-                <p>“When you rise in the morning, give thanks for the light, for your life, for your strength. Give thanks for your food and for the joy of living. If you see no reason to give thanks, the fault lies in yourself.”
-</p>
+                <p>“When you rise in the morning, give thanks for the light, for your life, 
+                for your strength. Give thanks for your food and for the joy of living. 
+                If you see no reason to give thanks, the fault lies in yourself.”</p>
             </div>
         </div>
         </div>
@@ -611,7 +608,7 @@ In addition to the drinks in question, also a variety of beverage dishes are ser
         <div class="row justify-content-center">
         <div class="col-lg-6">
         <div class="mb-3">
-            <label for="name" class="form-label">Nama</label>
+            <label for="name" class="form-label">Name</label>
                 <input type="text" class="form-control" id="exampleFormControlInput1">
         </div>
         <div class="mb-3">
@@ -619,7 +616,7 @@ In addition to the drinks in question, also a variety of beverage dishes are ser
                 <input type="text" class="form-control" id="exampleFormControlInput1">
         </div>
         <div class="mb-3">
-            <label for="name" class="form-label">Alamat</label>
+            <label for="address" class="form-label">Address</label>
                 <input type="text" class="form-control" id="exampleFormControlInput1">
         </div>
         <div class="mb-3">
@@ -627,27 +624,15 @@ In addition to the drinks in question, also a variety of beverage dishes are ser
                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
         </div>
         <div class="d-grid gap-2 d-md-flex justify-content-md-end" style="margin-bottom:50px;">
-        <button class="btn btn-primary me-md-2" type="button">Button</button>
+        <button class="btn btn-primary me-md-2" type="button">Send</button>
         </div>
     </div>
     </div>
 </section>
+<!-- Akhir Message -->
 
 <!-- Awal Footer -->
 <footer id="foot" class="page-footer bg-dark">
-    <div class="headfoot">
-      <div class="container">
-        <div class="row py-4 d-flex align-items-center">
-          <div class="col-md-12 text-center">
-            <a href="#"><i class="fab fa-facebook fa-2x text-white mr-5"></i></a>
-            <a href="#"><i class="fab fa-google-plus-g fa-2x text-white mr-5"></i></a>
-            <a href="#"><i class="fab fa-twitter fa-2x text-white mr-5"></i></a>
-            <a href="#"><i class="fab fa-instagram fa-2x text-white mr-5"></i></a>
-            <a href="#"></a>
-          </div>
-        </div>
-      </div>
-    </div>
 
     <div class="container text-center text-md-left mt-5 text-light">
 
@@ -663,7 +648,7 @@ In addition to the drinks in question, also a variety of beverage dishes are ser
           </ul>
         </div>
         <div class="col-md-3 mx-auto mb-5">
-          <h6 class="text-uppercase" style="font-size:35px;">Akun</h6>
+          <h6 class="text-uppercase" style="font-size:35px;">Account</h6>
           <hr class="bg-secondary mb-4 mt-0 d-inline-block mx-auto" style="width: 220px; height:2px;">
           <ul class="list-unstyled" style="text-align: justify;">
             <li class="my-2 text-center"> Kelompok 10</a></li>
@@ -674,7 +659,7 @@ In addition to the drinks in question, also a variety of beverage dishes are ser
         </div>
         <div class="col-md-3 mx-auto mb-4">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.705236475695!2d107.13949661395117!3d-6.805666368453325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6852e697990cef%3A0x2ddbb36bc8af404e!2sUniversitas%20Suryakancana!5e0!3m2!1sid!2sid!4v1615167700312!5m2!1sid!2sid" 
-                width="400" height="250" style="border:0; margin-left:-40px;" allowfullscreen="" loading="lazy"></iframe>
+                width="400" height="250" style="border:0; margin-left:-40px;margin-top:30px;" allowfullscreen="" loading="lazy"></iframe>
         </div>
       </div>
       <div class="footer-copyright text-center py-3">

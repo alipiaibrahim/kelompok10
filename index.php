@@ -4,11 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>FAMEAL</title><link rel="icon" href="img/8nav.png">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" 
     integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 
     <link rel="stylesheet" href="style-anggota1.css" class="href">
+
 </head>
     
 <body>
@@ -57,6 +59,7 @@
 
     <!-- carousel -->
     <section class="carousel">
+
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
@@ -96,18 +99,20 @@
         <span class="visually-hidden">Next</span>
     </button>
     </div>
+
     </section>
-    </div>
+    
     <!-- akhir carousel -->
 
     <!-- caption -->
     <section class="caption"style="padding-top:40px;">
+    <div class="container">
         <div class="col-md-8 mx-auto text-center">
             <h3>Information About Food And Drink By Fameal</h3>
             <h6>“The chief pleasure in eating does not consist in costly seasoning, or exquisite flavor, but in
                         yourself.”</h6>
                     <p>-Horace-</p>
-        </div>
+        </div></div>
     </section>
     <!-- akhir caption -->
 
@@ -141,7 +146,7 @@
                 <div class="text">
                 <p style="font-size:15px; text-align:center;">Papeda-Papua</p>
                 <hr>
-                <p style="font-size:10px; text-align:center;" >Makanan berupa bubur sagu yang kerap dimakan bersama mubara atau ikan tongkol yang dibumbui dengan kunyit</p>
+                <p style="font-size:12px; text-align:center;" >Makanan berupa bubur sagu yang kerap dimakan bersama mubara atau ikan tongkol yang dibumbui dengan kunyit</p>
                 </div>
                 <div class="card">
                 </div>
@@ -162,7 +167,7 @@
                 <div class="text">
                 <p style="font-size:15px; text-align:center">Rendang-Sumatra</p>
                 <hr>
-                <p style="font-size:10px; text-align:center;" >Masakan daging asli Indonesia yang dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan</p></div>
+                <p style="font-size:12px; text-align:center;" >Masakan daging asli Indonesia yang dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan</p></div>
                 <div class="card">
                 </div>
             </div></div>
@@ -183,7 +188,7 @@
                 <div class="text">
                 <p style="font-size:15px; text-align:center">Nasi Liwet-Jawa Tengah</p>
                 <hr>
-                <p style="font-size:10px; text-align:center;" >Nasi gurih dimasak dengan kelapa, yang disajikan dengan sayur labu siam, suwiran ayam dan areh</p></div>
+                <p style="font-size:12px; text-align:center;" >Nasi gurih dimasak dengan kelapa, yang disajikan dengan sayur labu siam, suwiran ayam dan areh</p></div>
                 <div class="card">
                 </div>
             </div></div>
@@ -204,7 +209,7 @@
                 <div class="text">
                 <p style="font-size:15px; text-align:center">Rawon-JawaTimur</p>
                 <hr>
-                <p style="font-size:10px; text-align:center;" >Masakan Indonesia berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek</p></div>
+                <p style="font-size:12px; text-align:center;" >Masakan Indonesia berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek</p></div>
                 </div>
                 <div class="card">
                 </div>
@@ -233,7 +238,7 @@
                 <div class="text">
                 <p style="font-size:15px; text-align:center">Lemang-Medan</p>
                 <hr>
-                <p style="font-size:10px; text-align:center;" >Makanan dari beras ketan yang dimasak dalam seruas bambu, setelah sebelumnya digulung dengan selembar daun pisang</p></div></div>
+                <p style="font-size:12px; text-align:center;" >Makanan dari beras ketan yang dimasak dalam seruas bambu, setelah sebelumnya digulung dengan selembar daun pisang</p></div></div>
                 <div class="card">
                 </div>
             </div></div>
@@ -254,7 +259,7 @@
                 <div class="text">
                 <p style="font-size:15px; text-align:center">Gangan Manok-Kalimantan Timur</p>
                 <hr>
-                <p style="font-size:10px; text-align:center;" >Sayur bening sejenis dengan makanan bakso dengan pelengkap bola-bola ayam</p></div></div>
+                <p style="font-size:12px; text-align:center;" >Sayur bening sejenis dengan makanan bakso dengan pelengkap bola-bola ayam</p></div></div>
                 <div class="card">
                 </div>
             </div></div>
@@ -275,7 +280,7 @@
                 <div class="text">
                 <p style="font-size:15px; text-align:center">NasiAyam-Semarang</p>
                 <hr>
-                <p style="font-size:10px; text-align:center;" >Makanan dari suwiran daging ayam, sambal goreng labu siam dan krecek, tahu putih, dan telur pindang laludi kasih dengan kuah santan.</p></div></div>
+                <p style="font-size:12px; text-align:center;" >Makanan dari suwiran daging ayam, sambal goreng labu siam dan krecek, tahu putih, dan telur pindang laludi kasih dengan kuah santan.</p></div></div>
                 <div class="card">
                 </div>
             </div></div>
@@ -296,7 +301,7 @@
                 <div class="text">
                 <p style="font-size:15px; text-align:center">Gado Gado-Betawi</p>
                 <hr>
-                <p style="font-size:10px; text-align:center;" >Makanan dari sayur-sayuran yang direbus dan dicampur jadi satu, dengan bumbu kacang tanahyang dihaluskan disertai irisan telur</p></div></div>
+                <p style="font-size:12px; text-align:center;" >Makanan dari sayur-sayuran yang direbus dan dicampur jadi satu, dengan bumbu kacang tanahyang dihaluskan disertai irisan telur</p></div></div>
                 <div class="card">
                 </div>
             </div></div>
@@ -315,17 +320,8 @@
  </section>
   
      <!-- akhir menu makanan  -->
-    
-
-      
-    
-
-     
-
-
-
-
-    
+    S
+     <script src="script-anggota1.js"></script>  
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" 
 integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 </body>

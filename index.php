@@ -148,6 +148,210 @@
 
     <!-- akhir menu  -->
 
+     <!-- menu makanan  -->
+     <section class="food" id="food" style="padding-top:100px;  background-image: url('img/4backmakanan.jpg');  padding-top:100px; margin-top:70px; background-size:cover; min-height:100vh";>
+                
+        
+          <div class="container-custome shop-page">
+            <div class="cof-header">
+                <div class="box-title">
+                    <div class="box-title-content">
+                        <p style="font-size: 30px; font-weight: bold; text-align:center; " class="section-title">Food From Indonesia </p>
+                     
+                    </div>
+                </div>
+               
+      
+
+      <section class="menu-makanan">  
+      <table>
+      <tr>
+                <td>
+         <div class="list-product">
+            <div class="container-fluid">
+            <div class="row"style="padding-bottom:-1000px;">
+             <div class="col"> 
+                 <div class="card">
+            <img src="./img/papeda-papua.jpg" alt="Avatar" class="img-fluid">
+            <div class="overlay">
+                <div class="text">
+                <p style="font-size:15px; text-align:center;">Papeda-Papua</p>
+                <hr>
+                <p style="font-size:10px; text-align:center;" >Makanan berupa bubur sagu yang kerap dimakan bersama mubara atau ikan tongkol yang dibumbui dengan kunyit</p>
+                </div>
+                <div class="card">
+                </div>
+            </div></div>
+            </div>
+            </div>
+            </div>
+            </div>
+                    </td>
+                    <td>
+            <div class="list-product">
+            <div class="container-fluid">
+            <div class="row"style="padding-bottom:-1000px;">
+             <div class="col"> 
+                 <div class="card">
+            <img src="./img/rendang-sumatraBarat.jpg" alt="Avatar" class="img-fluid">
+            <div class="overlay">
+                <div class="text">
+                <p style="font-size:15px; text-align:center">Rendang-Sumatra</p>
+                <hr>
+                <p style="font-size:10px; text-align:center;" >Masakan daging asli Indonesia yang dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan</p></div>
+                <div class="card">
+                </div>
+            </div></div>
+            </div>
+            </div>
+            </div>
+            </div>
+            </td>
+
+            <td>
+            <div class="list-product">
+            <div class="container-fluid">
+            <div class="row"style="padding-bottom:-1000px;">
+             <div class="col"> 
+                 <div class="card">
+            <img src="./img/nasiLiwet-jawa.jpg" alt="Avatar" class="img-fluid">
+            <div class="overlay">
+                <div class="text">
+                <p style="font-size:15px; text-align:center">Nasi Liwet-Jawa Tengah</p>
+                <hr>
+                <p style="font-size:10px; text-align:center;" >Nasi gurih dimasak dengan kelapa, yang disajikan dengan sayur labu siam, suwiran ayam dan areh</p></div>
+                <div class="card">
+                </div>
+            </div></div>
+            </div>
+            </div>
+            </div>
+            </div>
+            </td>
+
+            <td>
+            <div class="list-product">
+            <div class="container-fluid">
+            <div class="row"style="padding-bottom:-1000px;">
+             <div class="col"> 
+                 <div class="card">
+            <img src="./img/rawon-jawatimur.jpg" alt="Avatar" class="img-fluid">
+            <div class="overlay">
+                <div class="text">
+                <p style="font-size:15px; text-align:center">Rawon-JawaTimur</p>
+                <hr>
+                <p style="font-size:10px; text-align:center;" >Masakan Indonesia berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek</p></div>
+                </div>
+                <div class="card">
+                </div>
+            </div></div>
+            </div>
+            </div>
+            </div>
+            </div>
+            </td>
+                </tr>
+                </div>
+            </table>   
+
+
+        <div class="makanan2" style="padding-top:50px;"> 
+      <table>
+      <tr>
+                <td>
+         <div class="list-product">
+            <div class="container-fluid">
+            <div class="row"style="padding-bottom:-1000px;">
+             <div class="col"> 
+                 <div class="card">
+            <img src="./img/lemang-medan2.jpg" alt="Avatar" class="img-fluid">
+            <div class="overlay">
+                <div class="text">
+                <p style="font-size:15px; text-align:center">Lemang-Medan</p>
+                <hr>
+                <p style="font-size:10px; text-align:center;" >Makanan dari beras ketan yang dimasak dalam seruas bambu, setelah sebelumnya digulung dengan selembar daun pisang</p></div></div>
+                <div class="card">
+                </div>
+            </div></div>
+            </div>
+            </div>
+            </div>
+            </div>
+                    </td>
+
+                    <td>
+         <div class="list-product">
+            <div class="container-fluid">
+            <div class="row"style="padding-bottom:-1000px;">
+             <div class="col"> 
+                 <div class="card">
+            <img src="./img/Ganganmanuk-kalimantan.jpg" alt="Avatar" class="img-fluid">
+            <div class="overlay">
+                <div class="text">
+                <p style="font-size:15px; text-align:center">Gangan Manok-Kalimantan Timur</p>
+                <hr>
+                <p style="font-size:10px; text-align:center;" >Sayur bening sejenis dengan makanan bakso dengan pelengkap bola-bola ayam</p></div></div>
+                <div class="card">
+                </div>
+            </div></div>
+            </div>
+            </div>
+            </div>
+            </div>
+                    </td>
+
+                    <td>
+         <div class="list-product">
+            <div class="container-fluid">
+            <div class="row"style="padding-bottom:-1000px;">
+             <div class="col"> 
+                 <div class="card">
+            <img src="./img/nasiayamsemarang-semarang.jpg" alt="Avatar" class="img-fluid">
+            <div class="overlay">
+                <div class="text">
+                <p style="font-size:15px; text-align:center">NasiAyam-Semarang</p>
+                <hr>
+                <p style="font-size:10px; text-align:center;" >Makanan dari suwiran daging ayam, sambal goreng labu siam dan krecek, tahu putih, dan telur pindang laludi kasih dengan kuah santan.</p></div></div>
+                <div class="card">
+                </div>
+            </div></div>
+            </div>
+            </div>
+            </div>
+            </div>
+                    </td>
+
+                    <td>
+         <div class="list-product">
+            <div class="container-fluid">
+            <div class="row"style="padding-bottom:-1000px;">
+             <div class="col"> 
+                 <div class="card">
+            <img src="./img/gadogado-betawi.jpg" alt="Avatar" class="img-fluid">
+            <div class="overlay">
+                <div class="text">
+                <p style="font-size:15px; text-align:center">Gado Gado-Betawi</p>
+                <hr>
+                <p style="font-size:10px; text-align:center;" >Makanan dari sayur-sayuran yang direbus dan dicampur jadi satu, dengan bumbu kacang tanahyang dihaluskan disertai irisan telur</p></div></div>
+                <div class="card">
+                </div>
+            </div></div>
+            </div>
+            </div>
+            </div>
+            </div>
+                    </td>
+
+                    
+        </tr>
+            </table>
+   </div> 
+    </section>    
+
+ </section>
+  
+     <!-- akhir menu makanan  -->
+
 
 
 

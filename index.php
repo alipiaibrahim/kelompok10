@@ -33,19 +33,19 @@
                 <ul class="navbar-nav mr-auto my-2 my-lg-0 navbar-nav-scroll nav justify-content-end ms-auto"
                         style="--bs-scroll-height: 100px;">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Food</a>
+                        <a class="nav-link" href="#food">Food</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Drink</a>
+                        <a class="nav-link" href="#minum">Drink</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Desserts</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Snacks</a>
+                        <a class="nav-link" href="#about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About</a>
+                        <a class="nav-link" href="#contact">Contact</a>
                     </li>
 
                 </ul>
@@ -323,7 +323,7 @@
  </section>
 <!-- akhir menu makanan  --> 
 <!-- menu minuman  -->
-<section class="food" id="food" style="padding-top:100px;  background-image: url('img/background.jpeg');  padding-top:100px; margin-top:70px; background-size:cover; min-height:100vh" ;>
+<section class="food" id="minum" style="padding-top:100px;  background-image: url('img/background.jpeg');  padding-top:100px; margin-top:70px; background-size:cover; min-height:100vh" ;>
 
 
 <div class="container-custome shop-page">
@@ -571,7 +571,7 @@
 <!-- akhir about -->
 
 <!-- Message -->
-<section id="contact" class="contact mb-5 pt-5">
+<section id="contact" class="contact mb-6 pt-6" style="background-image:url(img/bg2.jpg);">
     <div class="container">
         <div class="row pt-4 mb-4">
             <div class="col text-center">
@@ -596,7 +596,7 @@
                 <label for="exampleFormControlTextarea1" class="form-label">Message</label>
                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
         </div>
-        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end" style="margin-bottom:50px;">
         <button class="btn btn-primary me-md-2" type="button">Button</button>
         </div>
     </div>
@@ -626,10 +626,10 @@
           <h6 class="text-uppercase font-weight-bold">FEMALE</h6>
           <hr class="bg-secondary mb-4 mt-0 d-inline-block mx-auto" style="width: 220px; height:2px;">
           <ul class="list-unstyled" style="text-align:justify;">
-            <li class="my-2"><a href="#">Food</a></li>
+            <li class="my-2"><a href="#food">Food</a></li>
             <li class="my-2"><a href="#">Information</a></li>
-            <li class="my-2"><a href="#">About</a></li>
-            <li class="my-2"><a href="#">Contact</a></li>
+            <li class="my-2"><a href="#about">About</a></li>
+            <li class="my-2"><a href="#contact">Contact</a></li>
           </ul>
         </div>
         <div class="col-md-3 mx-auto mb-5">

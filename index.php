@@ -39,7 +39,7 @@
                         <a class="nav-link" href="#minum">Drink</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Desserts</a>
+                        <a class="nav-link" href="#informasi">Information Food & Drink</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#about">About</a>
@@ -546,6 +546,36 @@
 </section>
 <!-- akhir menu minuman  -->
 
+<!-- informasi makanan dan minuman -->
+<section class="informasi text-center" id="informasi" style="padding-top:80px;">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2 class="text-center">Information Food And Drink</h2>
+          <hr>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-6">
+          <p class="pkiri">Food is a substance eaten by living things to obtain nutrients that are then processed into energy. Carbohydrates, fats, proteins, vitamins, and minerals are nutrients in foods needed by the body. The liquid used for this purpose is often called a drink, but the word 'food' can also be used. Food consumed by humans is called food, while food consumed by animals is called feed.
+
+The quality of a food can be judged by the energy of the food and its shelf life. Improper or insufficient consumption of food will lead to malnutrition, which can lead to various health problems. In addition, some types of food can trigger the onset of food allergies when consumed by sensitive individuals. Food ingredients are processed into a variety of different dishes and become a characteristic of a culture or population in a certain geographical location. Food is a subject studied in a variety of sciences, such as food science, nutrition or nutrition, and gastronomy.</p>
+        </div>
+        <div class="col-sm-6">
+          <p class="pkanan">Drinks generally refer to ingested liquids. The word is sometimes used in a narrower sense to refer to alcoholic beverages.
+
+In general, people consume clean, clear, and sterile water as the main drink for consumption and also good for health. The steps to sterilize water are generally divided into three:
+
+ozoneization is the process of water treatment using ozone that is commonly done by large-scale bottled water companies
+By using ultra violet rays as used by refillable drinking water depot businesses
+Boiling it, commonly used in households in Indonesia
+In addition to the drinks in question, also a variety of beverage dishes are served either in official events, breaks or breaks, or casual events, both at home with family and at meetings. Each ethnic group has its own signature drink.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+<!-- akhir informasi makanan dan minuman -->
+
 <!-- ABOUT -->
 <section id="about">
     <div class="container">
@@ -561,8 +591,8 @@
                 </div>
             <div class="col-lg-12">
             <h3 class="pKanan">This is About</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste odit iusto neque expedita laboriosam, 
-                debitis dignissimos labore vel tempore eos voluptates fugit commodi et delectus accusantium quasi nesciunt. Maiores, non?</p>
+                <p>“When you rise in the morning, give thanks for the light, for your life, for your strength. Give thanks for your food and for the joy of living. If you see no reason to give thanks, the fault lies in yourself.”
+</p>
             </div>
         </div>
         </div>
@@ -571,7 +601,7 @@
 <!-- akhir about -->
 
 <!-- Message -->
-<section id="contact" class="contact mb-6 pt-6" style="background-image:url(img/bg2.jpg);">
+<section id="contact" class="contact mb-6 pt-6" >
     <div class="container">
         <div class="row pt-4 mb-4">
             <div class="col text-center">
@@ -623,23 +653,23 @@
 
       <div class="row">
         <div class="col-md-2 mx-auto mb-4">
-          <h6 class="text-uppercase font-weight-bold">FEMALE</h6>
+          <h6 class="text-uppercase " style="font-size:35px;">FAMEAL</h6>
           <hr class="bg-secondary mb-4 mt-0 d-inline-block mx-auto" style="width: 220px; height:2px;">
           <ul class="list-unstyled" style="text-align:justify;">
             <li class="my-2"><a href="#food">Food</a></li>
-            <li class="my-2"><a href="#">Information</a></li>
+            <li class="my-2"><a href="#informasi">Information</a></li>
             <li class="my-2"><a href="#about">About</a></li>
             <li class="my-2"><a href="#contact">Contact</a></li>
           </ul>
         </div>
         <div class="col-md-3 mx-auto mb-5">
-          <h6 class="text-uppercase font-weight-bold">Akun</h6>
+          <h6 class="text-uppercase" style="font-size:35px;">Akun</h6>
           <hr class="bg-secondary mb-4 mt-0 d-inline-block mx-auto" style="width: 220px; height:2px;">
           <ul class="list-unstyled" style="text-align: justify;">
-            <li class="my-2"> <a href=""><img src="img/git.jpg" style="width: 30px; height:30px;border-radius: 30px;"> Kelompok 10</a></li>
-            <li id="move" class="my-2"> <a href="#"><img src="img/draemon1.jpg" style="width: 30px; height:30px;border-radius: 30px;">Alipia Ibrahim</a></li>
-            <li class="my-2"> <a href="#"><img src="img/hello1.jpg" style="width: 30px; height:30px;border-radius: 30px;">Astuti Mega Putri Ratry</a></li>
-            <li class="my-2"> <a href="#"><img src="img/kerro.jpg" style="width: 30px; height:30px;border-radius: 30px;">Fadilah Nurlaela</a></li>
+            <li class="my-2 text-center"> Kelompok 10</a></li>
+            <li id="move" class="my-2"> <a href="https://www.instagram.com/p/CJTTvmrHkq5mMEnAs-aawppeAcCcXwqgz1BOrg0/?igshid=2vyuhw8mnssa"><img src="img/ig.png" style="width: 30px; height:30px;border-radius: 30px;">Alipia Ibrahim</a></li>
+            <li class="my-2"> <a href="#"><img src="img/ig.png" style="width: 30px; height:30px;border-radius: 30px;">Astuti Mega Putri Ratry</a></li>
+            <li class="my-2"> <a href="#"><img src="img/ig.png" style="width: 30px; height:30px;border-radius: 30px;">Fadilah Nurlaela</a></li>
           </ul>
         </div>
         <div class="col-md-3 mx-auto mb-4">
@@ -648,7 +678,7 @@
         </div>
       </div>
       <div class="footer-copyright text-center py-3">
-        <p>Copyright © 2021 Female Court. All Rights Reserved
+        <p>Copyright © 2021 Femeal Court. All Rights Reserved
         </p>
       </div>
   </footer>

@@ -103,7 +103,7 @@
     <!-- caption -->
     <section class="caption"style="padding-top:40px;">
         <div class="col-md-8 mx-auto text-center">
-            <h3>Information About Food By Fameal</h3>
+            <h3>Information About Food And Drink By Fameal</h3>
             <h6>“The chief pleasure in eating does not consist in costly seasoning, or exquisite flavor, but in
                         yourself.”</h6>
                     <p>-Horace-</p>

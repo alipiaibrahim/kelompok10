@@ -6,9 +6,9 @@ html {
   padding-left: 50px;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1000px) {
   .card {
-    width: 16rem;
+    width: 18rem;
   }
 }
 
@@ -86,10 +86,4 @@ html {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-}
-
-@media (min-width: 900px) {
-  .list-produk {
-    width: 16rem;
-  }
 }

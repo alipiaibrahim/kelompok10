@@ -112,8 +112,6 @@
     <!-- akhir caption -->
 
 
-     
-
      <!-- menu makanan  -->
      <section class="food" id="food" style="padding-top:100px;  background-image: url('img/4backmakanan.jpg');  padding-top:100px; margin-top:70px; background-size:cover; min-height:100vh";>
                 
@@ -317,7 +315,12 @@
  </section>
   
      <!-- akhir menu makanan  -->
+    
 
+      
+    
+
+     
 
 
 
